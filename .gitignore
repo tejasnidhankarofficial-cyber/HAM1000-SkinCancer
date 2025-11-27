@@ -1,0 +1,21 @@
+# ----------------------------------------------------------------------
+# PROJECT-SPECIFIC ASSETS (DATA, MODELS, AND LARGE FILES)
+# ----------------------------------------------------------------------
+
+# Ignore the entire folder containing all 10,000 images (The core large dataset)
+data/images/
+data
+
+# Ignore the entire folder containing the dataset (if 'data' contains nothing else you need)
+# data/
+
+# Ignore the final trained model weights (*.pth files)
+# This keeps the result of your hard work off the public repo.
+*.pth
+
+# Ignore the massive original metadata file (if you have one)
+data/HAM10000_metadata.csv
+
+# Ignore any specific large file formats common in DL/ML you don't want tracked
+*.h5
+*.hdf5
