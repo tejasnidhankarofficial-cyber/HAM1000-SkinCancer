@@ -92,7 +92,7 @@ HAM1000-SkinCancer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/HAM1000-SkinCancer.git
+   git clone https://github.com/tejasnidhankarofficial-cyber/HAM1000-SkinCancer.git
    cd HAM1000-SkinCancer
    ```
 
@@ -270,9 +270,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@tejasnidhankarofficial-cyber](https://github.com/tejasnidhankarofficial-cyber)
+- LinkedIn: [Tejas Nidhankar](https://www.linkedin.com/in/tejas-nidhankar/)
+- Email: tejasnidhankar.official@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -283,4 +283,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ using PyTorch and powered by Apple Silicon**
+**Built with ❤️ using PyTorch and powered by Apple Silicon M4 Chip**
